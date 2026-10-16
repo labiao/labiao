@@ -10,7 +10,7 @@
 
 ### Hi there 👋
 
-My research interests are in computer vision, weakly supervised learning and remote sensing image processing.
+I develop deep-learning methods for extracting buildings, roads, changes, and archaeological traces from remote-sensing imagery. My current work focuses on the large-scale identification and monitoring of Great Wall heritage using multimodal, multi-temporal, and limited-annotation data.
 
 Gitee Page: https://gitee.com/labiao
 
